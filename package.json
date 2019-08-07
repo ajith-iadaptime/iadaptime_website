@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages-deploy -d dist",
+    "clean-source": "rimraf README.md src webroot package.json"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
+  
 }
