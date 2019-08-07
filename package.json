@@ -9,6 +9,7 @@
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://ajith-iadaptime.github.io/iadaptime_website/",
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
